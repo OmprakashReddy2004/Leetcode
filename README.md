@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Binary Tree
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 # Binary Search Tree
@@ -70,3 +72,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1137-height-checker) |
+# Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
+# Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
