@@ -58,3 +58,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+# Array
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1137-height-checker) |
+# Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1137-height-checker) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1137-height-checker) |
