@@ -94,3 +94,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+# Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0070-climbing-stairs) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0070-climbing-stairs) |
