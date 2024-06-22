@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 # Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1137-height-checker](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1137-height-checker) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
@@ -106,3 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0070-climbing-stairs) |
+# Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
