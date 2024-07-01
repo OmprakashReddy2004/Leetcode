@@ -112,3 +112,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
