@@ -131,4 +131,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
