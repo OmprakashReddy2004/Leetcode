@@ -117,11 +117,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 | [1293-three-consecutive-odds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [1236-n-th-tribonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
 ## Simulation
