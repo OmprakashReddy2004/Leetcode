@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
