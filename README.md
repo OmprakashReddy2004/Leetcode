@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1236-n-th-tribonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
