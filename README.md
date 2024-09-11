@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |
