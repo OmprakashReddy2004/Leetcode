@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
@@ -231,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -249,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
