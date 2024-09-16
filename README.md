@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
 ## Sliding Window
