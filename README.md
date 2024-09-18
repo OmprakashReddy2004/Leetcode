@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -259,10 +260,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0812-rotate-string) |
