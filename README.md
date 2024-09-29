@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
