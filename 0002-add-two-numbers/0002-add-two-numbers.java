@@ -1,45 +1,34 @@
-import java.util.LinkedList;
-import java.math.BigInteger;
-public class Solution {
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        StringBuilder st1 = new StringBuilder();
-        StringBuilder st2 = new StringBuilder();
-        
-        ListNode current1 = l1;
-        while (current1 != null) {
-            st1.append(current1.val);
-            current1 = current1.next;
-        }
-        
-        ListNode current2 = l2;
-        while (current2 != null) {
-            st2.append(current2.val);
-            current2 = current2.next;
-        }
-        
-        st1.reverse();
-        st2.reverse();
-        
-        
-        BigInteger num1 = new BigInteger(st1.toString());
-        BigInteger num2 = new BigInteger(st2.toString());
-        
-        
-        BigInteger sum = num1.add(num2);
-        
-        
-        String sumStr = sum.toString();
-        
         ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
-        
-         
-        for (int i = sumStr.length() - 1; i >= 0; i--) {
-            int digit = sumStr.charAt(i) - '0';
-            current.next = new ListNode(digit);
-            current = current.next;
+        ListNode temp = dummy;
+         int carry = 0;
+        while(l1!=null || l2!=null || carry!=0){
+            int sum = 0;
+            if(l1!=null){
+                sum+=l1.val;
+                l1=l1.next;
+            }
+            if(l2!=null){
+                sum+=l2.val;
+                l2 = l2.next;
+            }
+            sum+=carry;
+            carry = sum/10;
+            ListNode node = new ListNode(sum%10);
+            temp.next = node;
+            temp = temp.next;
         }
-        
         return dummy.next;
     }
 }
