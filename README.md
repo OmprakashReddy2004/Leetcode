@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -384,4 +386,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
