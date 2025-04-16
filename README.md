@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -342,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0812-rotate-string) |
 ## Heap (Priority Queue)
 |  |
