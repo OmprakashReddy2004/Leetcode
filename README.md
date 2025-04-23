@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1500-count-largest-group](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1500-count-largest-group](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Binary Search
