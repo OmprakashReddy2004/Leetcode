@@ -446,8 +446,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
