@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0792-binary-search) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
@@ -463,12 +466,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
 ## Graph
