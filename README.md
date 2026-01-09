@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1293-three-consecutive-odds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1656-count-good-triplets) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
+| [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
@@ -475,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -485,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
