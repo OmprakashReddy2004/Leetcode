@@ -313,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0525-contiguous-array) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
