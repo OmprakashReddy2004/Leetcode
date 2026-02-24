@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -533,4 +535,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0164-maximum-gap) |
+## Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
