@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0413-arithmetic-slices](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1013-fibonacci-number) |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
