@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        s = s.toLowerCase().replaceAll("[^a-z0-9]", "");
+        s = s.toLowerCase().replaceAll("[^a-z0-9]","");
         int n = s.length();
         int left = 0;
         int right = n-1;
