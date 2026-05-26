@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
