@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0792-binary-search) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0792-binary-search) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
