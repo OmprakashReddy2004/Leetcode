@@ -1,46 +1,50 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-        int min = Integer.MAX_VALUE;
-         int max = Integer.MIN_VALUE;
-        if ((long) m * k > bloomDay.length) return -1;
+        int n = bloomDay.length;
+
+        if ((long)m*k > n) return -1;
+        int lo = 1;
+        int hi = 1;
+        
         for(int x : bloomDay){
-            min = Math.min(min,x);
-            max = Math.max(max,x);
+            hi = Math.max(x,hi);
+            lo = Math.min(x,lo);
         }
 
-        int lo = min;
-        int hi = max;
+       
 
         while(lo <= hi){
             int mid = lo + (hi - lo)/2;
 
-                if(validate(bloomDay,m,k,mid)){
-                    hi = mid - 1;
-                }else{
-                    lo = mid + 1;
-                }
-            
+            if(canMake(bloomDay,m,k,mid)){
+                hi = mid - 1;
+            }else{
+                lo = mid + 1;
+            }
         }
-            return lo;
+        return lo;
+
 
     }
-    public static boolean validate(int []bloomDay,int m, int k,int mid){
+    public static boolean canMake(int [] nums,int m,int k,int mid){
         int bouquets = 0;
         int consecutive = 0;
 
-        for(int i=0;i<bloomDay.length;i++){
-            
-            if(bloomDay[i] <= mid){
+        for(int x : nums){
+            if(x<=mid){
                 consecutive++;
 
                 if(consecutive == k){
-                   bouquets++;
+                    bouquets++;
                     consecutive = 0;
                 }
-            }else{
-                consecutive = 0;
             }
+            else{
+                    consecutive = 0;
+                }
+            if(bouquets>=m) return true;
         }
-         return bouquets>=m;
+
+        return false;
     }
 }
