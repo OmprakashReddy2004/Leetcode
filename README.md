@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1656-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1901-find-a-peak-element-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1901-find-a-peak-element-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
