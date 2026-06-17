@@ -3,24 +3,20 @@ class Solution {
         int n = matrix.length;
         int m = matrix[0].length;
 
-       
-        for(int i=0;i<n;i++){
-            int lo = 0;
-            int hi = m-1;
-            while(lo<=hi){
-            int mid = lo + (hi-lo)/2;
+        int row = 0;
+        int col = m - 1;
 
-            if(matrix[i][mid]== target){
+        while(row < n && col >= 0){
+
+            if(matrix[row][col] == target){
                 return true;
-            }else if(matrix[i][mid] < target){
-                lo = mid + 1;
+            }else if(matrix[row][col] < target){
+                row ++;
             }else{
-                hi = mid - 1;
+                col--;
             }
-
-       }
         }
-       
+
        return false;
     }
 }
