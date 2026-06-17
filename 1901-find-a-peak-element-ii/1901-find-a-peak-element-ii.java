@@ -3,20 +3,38 @@ class Solution {
         int n = mat.length;
         int m = mat[0].length;
 
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                 int up = (i > 0) ?  mat[i-1][j] : -1;
-                 int down = (i < n-1) ? mat[i+1][j] : -1;
-                 int left = (j > 0) ? mat[i][j-1] : -1;
-                 int right = (j < m - 1) ? mat[i][j+1] : -1;
+         int lo = 0;
+         int hi = m - 1;
 
-                 if(mat[i][j] > up && mat[i][j] > down && mat[i][j]> left && mat[i][j]> right){
-                    return new int[]{i,j};
-                 }
+         while(lo <= hi){
+            int mid = lo + (hi - lo)/2;
+            int row = maxElement(mat,mid);
 
-        }
-       
+            int left = mid - 1 >= 0 ? mat[row][mid - 1] : Integer.MIN_VALUE;
+            int right = mid + 1 < m ? mat[row][mid + 1] : Integer.MIN_VALUE;
+
+
+            if(mat[row][mid] > left && mat[row][mid] > right){
+                return new int[]{row,mid};
+            }else if(left > mat[row][mid]){
+                hi = mid-1;
+            }else{
+                lo = mid + 1;
+            }
+         }
+         return new int[]{-1,-1};
     }
-     return new int[]{-1,-1};
-}
+    public static int maxElement(int [][] arr,int col){
+        int index = -1;
+        int max = Integer.MIN_VALUE;
+
+        for(int row=0;row<arr.length;row++){
+            if(arr[row][col] > max){
+               max = arr[row][col];
+               index = row;
+            }
+        }
+        return index;
+    }
+
 }
