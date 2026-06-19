@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
 |  |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3207-make-three-strings-equal](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3379-score-of-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3379-score-of-a-string) |
 | [3921-score-validator](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3921-score-validator) |
