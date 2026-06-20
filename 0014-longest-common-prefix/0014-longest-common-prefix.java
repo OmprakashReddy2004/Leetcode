@@ -3,30 +3,20 @@ class Solution {
         if(strs.length==0){
             return "";
         }
-        int plen = 0;
-        while(true){
-            if(plen<strs[0].length()){
-                boolean val = true;
-                char ch = strs[0].charAt(plen);
+        int prefix = 0;
 
-                for(int i=0;i<strs.length;i++){
-                    if(plen<strs[i].length() && strs[i].charAt(plen)==ch){
-
-                    }else{
-                        val = false;
-                        break;
-                    }
+        while(prefix < strs[0].length()){
+            char c = strs[0].charAt(prefix);
+        
+            for(int i=1;i<strs.length;i++){
+                if(prefix >= strs[i].length() || strs[i].charAt(prefix)!=c){
+                    return strs[0].substring(0,prefix);
                 }
-                if(val){
-                    plen++;
-                }
-                else{
-                    break;
-                }
-            }else{
-                break;
             }
+            prefix++;
         }
-        return strs[0].substring(0,plen);
+  
+
+        return strs[0].substring(0,prefix);
     }
 }
