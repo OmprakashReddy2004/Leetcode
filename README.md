@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1021-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1408-string-matching-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
