@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 | [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -315,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2998-count-symmetric-integers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
