@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
+| [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -676,4 +679,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
