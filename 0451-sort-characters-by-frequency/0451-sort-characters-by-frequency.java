@@ -1,28 +1,32 @@
 class Solution {
     public String frequencySort(String s) {
-        // store it in char array.
-        // now for frequency you can use hashmap :)
-        // we need to sort the hashmap and exhaust the list in descending order. you can use stream filters though.
-         char[] chars = s.toCharArray();
-          HashMap<Character,Integer> map = new HashMap<>();
-          for(char x : chars){
-            map.put(x,map.getOrDefault(x,0)+1);
-          }
-          List<Map.Entry<Character,Integer>> list = new ArrayList<>(map.entrySet());
-           list.sort((entry1,entry2)-> entry2.getValue().compareTo(entry1.getValue()));
+        int n = s.length();
+        HashMap<Character,Integer> map = new HashMap<>();
 
-         StringBuilder st = new StringBuilder();
-         int index =0;
-         while(index < list.size()){
-             Map.Entry<Character, Integer> entry = list.get(index);
-             int freq= entry.getValue();
-              while (freq >0) {
-                 st.append(entry.getKey());
-                 freq--;
-            }
-            index++;
+        for(char c : s.toCharArray()){
+            map.put(c,map.getOrDefault(c,0)+1);
+        }
+
+         List<Character> [] buckets = new List[n+1];
+         for(int i=0;i<=n;i++){
+            buckets[i] = new ArrayList<>();
          }
-      return st.toString();
-          
+
+         for(Map.Entry<Character,Integer> entry : map.entrySet()){
+            char key = entry.getKey();
+            int freq = entry.getValue();
+
+            buckets[freq].add(key);
+         }
+            StringBuilder sb = new StringBuilder();
+         for(int i=n;i>=1;i--){
+            for(char c : buckets[i]){
+                for(int j=0;j<i;j++){
+                    sb.append(c);
+                }
+            }
+         }
+
+         return sb.toString();
     }
 }
