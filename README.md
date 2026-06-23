@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0898-transpose-matrix](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0898-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -293,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -562,12 +565,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -661,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -692,5 +698,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
