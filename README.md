@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3912-valid-elements-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3921-score-validator) |
 ## Two Pointers
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
 | ------- |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1189-maximum-number-of-balloons](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -620,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -704,4 +709,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
