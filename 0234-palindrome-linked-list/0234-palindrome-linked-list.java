@@ -10,22 +10,39 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        StringBuilder sb = new StringBuilder();
-        ListNode temp = head;
-        while(temp!=null){
-            sb.append(temp.val);
-            temp = temp.next;
+        ListNode slow = head;
+        ListNode fast = head;
+
+        if(head==null || head.next==null) return true;
+
+        while(fast!=null && fast.next!=null ){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int left = 0;
-        int right = sb.length()-1;
-        while(left<=right){
-            if(sb.charAt(left) == sb.charAt(right)){
-                left++;
-                right--;
-            }else{
+
+        if(fast!=null){
+            slow = slow.next;
+        }
+
+        ListNode prev = null;
+        while(slow!=null){
+           ListNode temp = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = temp;
+        }
+
+        ListNode first = head;
+        ListNode second = prev;
+
+        while(second!=null){
+            if(first.val != second.val){
                 return false;
             }
+            first = first.next;
+            second = second.next;
         }
+
         return true;
     }
 }
