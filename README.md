@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3912-valid-elements-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3921-score-validator) |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
