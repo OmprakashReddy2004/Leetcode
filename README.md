@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -601,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-merge-in-between-linked-lists](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
