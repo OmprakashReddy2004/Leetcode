@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0053-maximum-subarray) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -563,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -734,4 +738,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
