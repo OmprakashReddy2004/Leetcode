@@ -2,13 +2,19 @@ class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length;
 
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(numbers[i] + numbers[j] == target){
-                    return new int[]{i+1,j+1};
-                }
+        int lo = 0;
+        int hi = n-1;
+
+        while(lo < hi){
+            if(numbers[lo] + numbers[hi] == target){
+                return new int[]{lo+1,hi+1};
+            }else if (numbers[lo] + numbers[hi] > target){
+                hi--;
+            }else{
+                lo++;
             }
         }
+
         return new int[]{-1,-1};
     }
 }
