@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
