@@ -1,17 +1,21 @@
 class Solution {
     public boolean isPalindrome(int x) {
-       if(x<0){
+      String s = x + "";
+    
+
+    return recurse(s,0);   
+      
+    }
+    public static boolean recurse(String s, int i){
+        if(s.charAt(i)!=s.charAt(s.length()-i-1)){
             return false;
         }
-       int digit;
-       long reversed =0;
-       long temp = x;
-         while(temp!=0){
-              digit = (int)(temp%10);
-              reversed = (reversed*10) + digit;
-              temp/=10;
-         }
-          
-          return(reversed==x);
+
+        if(i>=s.length()/2){
+            return true;
+        }
+
+        return recurse(s,i+1);
+
     }
 }
