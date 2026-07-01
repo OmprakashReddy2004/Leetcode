@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0441-arranging-coins) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0136-single-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0338-counting-bits) |
@@ -639,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1013-fibonacci-number) |
