@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3912-valid-elements-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3921-score-validator) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -603,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0912-sort-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1020-number-of-enclaves) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -763,4 +767,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
