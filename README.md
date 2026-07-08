@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0049-group-anagrams) |
@@ -785,4 +786,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
