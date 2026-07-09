@@ -1,17 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> subset = new ArrayList<>();
-        solve(0,nums,subset,ans);
-        return ans;
+        List<List<Integer>> result = new ArrayList<>();
+        dfs(0,nums,result,new ArrayList<>());
+        return result;
     }
-    public static void solve(int idx,int [] nums,List<Integer> subset, List<List<Integer>> ans){
-        ans.add(new ArrayList<>(subset));
+    public static void dfs(int idx, int [] arr, List<List<Integer>> result, List<Integer> subset){
 
-        for(int i=idx;i<nums.length;i++){
-            subset.add(nums[i]);
-            solve(i+1,nums,subset,ans);
-            subset.remove(subset.size() - 1);
+        if(idx >= arr.length){
+            result.add(new ArrayList<>(subset));
+            return;
         }
+        //include
+        subset.add(arr[idx]);
+        dfs(idx+1,arr,result,subset);
+        // not include
+        subset.remove(subset.size() -1);
+        dfs(idx+1,arr,result,subset);
     }
 }
