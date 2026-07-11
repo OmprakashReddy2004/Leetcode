@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2556-convert-the-temperature](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2556-convert-the-temperature) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2998-count-symmetric-integers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3908-valid-digit-number) |
@@ -397,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Memoization
 |  |
@@ -440,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -680,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0062-unique-paths) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Quickselect
 |  |
 | ------- |
@@ -813,4 +819,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1079-letter-tile-possibilities](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1079-letter-tile-possibilities) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
