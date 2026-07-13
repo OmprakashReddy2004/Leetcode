@@ -712,6 +712,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Union Find
