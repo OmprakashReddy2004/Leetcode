@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2556-convert-the-temperature](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2998-count-symmetric-integers](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3908-valid-digit-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -784,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Interactive
 |  |
