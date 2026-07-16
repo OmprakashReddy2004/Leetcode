@@ -320,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0455-assign-cookies) |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -506,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0476-number-complement) |
 | [0491-non-decreasing-subsequences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0861-flipping-an-image](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0861-flipping-an-image) |
@@ -592,6 +595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
