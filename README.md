@@ -600,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0481-magical-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0481-magical-string) |
+| [0709-to-lower-case](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
