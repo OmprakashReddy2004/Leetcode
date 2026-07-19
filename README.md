@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2653-sliding-subarray-beauty](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2653-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-letter-tile-possibilities](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2678-number-of-senior-citizens](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [3207-make-three-strings-equal](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3207-make-three-strings-equal) |
 | [3379-score-of-a-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3379-score-of-a-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3921-score-validator](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3921-score-validator) |
 ## Stack
 |  |
