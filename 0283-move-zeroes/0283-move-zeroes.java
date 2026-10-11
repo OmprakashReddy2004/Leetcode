@@ -1,25 +1,21 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        if(nums.length == 1) return;
 
-        int left = 0;
-        int right = 1;
+        List<Integer> list = new ArrayList<>();
 
-        while(right < nums.length){
-            if(nums[left] == 0 && nums[right]!=0){
-                swap(nums,left,right);
-                left++;
-                  
-            }else if(nums[left]!=0){
-                left++;
+        for(int x : nums){
+            if(x!=0){
+                list.add(x);
             }
-            right++;
-               
         }
-    }
-    public static void swap(int nums[],int left,int right){
-        int temp = nums[left];
-        nums[left] = nums[right];
-        nums[right] = temp;
+        for(int x : nums){
+            if(x==0){
+                list.add(x);
+            }
+        }
+
+         for(int i=0;i<nums.length;i++){
+            nums[i] = list.get(i);
+         }
     }
 }
