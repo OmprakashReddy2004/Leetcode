@@ -844,4 +844,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0491-non-decreasing-subsequences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1079-letter-tile-possibilities](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
