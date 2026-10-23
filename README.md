@@ -457,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1500-count-largest-group) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -540,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1079-letter-tile-possibilities](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1079-letter-tile-possibilities) |
 | [1189-maximum-number-of-balloons](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
