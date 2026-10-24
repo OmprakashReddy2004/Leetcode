@@ -863,4 +863,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
