@@ -17,13 +17,13 @@ class Solution {
                 int target = nums[i] + nums[left] + nums[right];
                 if(target== 0){
                     List<Integer> list = new ArrayList<>();
-                    list.add(nums[i]);
                     list.add(nums[left]);
+                    list.add(nums[i]);
                     list.add(nums[right]);
                     res.add(list);
                     left++;
                     right --;
-                    while(left < right && nums[left] == nums[left+1]){
+                    while(left < right && nums[left] == nums[left-1]){
                         left++;
                     }
                     while(left < right && nums[right] == nums[right+1]){
