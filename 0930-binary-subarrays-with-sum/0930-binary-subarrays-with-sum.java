@@ -1,17 +1,23 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        return countWays(nums,goal) - countWays(nums,goal-1);
+    }
+    public static int countWays(int [] nums, int k){
+        if(k < 0) return 0;
         int count = 0;
         int n = nums.length;
 
-        for(int i=0;i<n;i++){
-            int sum = 0;
-            for(int j=i;j<n;j++){
-                sum += nums[j];
-                if(sum == goal){
-                    count++;
-                }
+         int left = 0;
+         int sum = 0;
+         for(int right= 0; right <n ;right++){
+            sum+= nums[right];
+
+            while(sum > k){
+                sum -= nums[left];
+                left++;
             }
-        }
-        return count;
+            count += right - left + 1;
     }
+    return count;
+}
 }
