@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -753,6 +754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/OmprakashReddy2004/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
