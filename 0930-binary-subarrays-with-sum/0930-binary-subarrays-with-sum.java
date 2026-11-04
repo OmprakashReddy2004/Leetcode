@@ -1,23 +1,21 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
-        return countWays(nums,goal) - countWays(nums,goal-1);
-    }
-    public static int countWays(int [] nums, int k){
-        if(k < 0) return 0;
+        Map<Integer,Integer> map = new HashMap<>();
+        int prefixSum = 0;
         int count = 0;
-        int n = nums.length;
 
-         int left = 0;
-         int sum = 0;
-         for(int right= 0; right <n ;right++){
-            sum+= nums[right];
+        for(int i = 0; i < nums.length; i++){
+            prefixSum += nums[i];
 
-            while(sum > k){
-                sum -= nums[left];
-                left++;
+            if(prefixSum == goal) count++;
+
+            int target = prefixSum - goal;
+            if(map.containsKey(target)){
+                count += map.get(target);
             }
-            count += right - left + 1;
+            map.put(prefixSum, map.getOrDefault(prefixSum,0)+1);
+        }
+
+        return count;
     }
-    return count;
-}
 }
