@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-string-matching-in-an-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -778,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/OmprakashReddy2004/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/OmprakashReddy2004/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
